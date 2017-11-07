@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="com/sleepy/manager/SqlManager.java|com/sleepy/manager/RepertoryM.java|com/sleepy/manager/DataAlterM.java" kind="src" path="src"/>
+	<classpathentry excluding="src/|lib/" kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.7-dmr-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
